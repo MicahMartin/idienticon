@@ -1,0 +1,2 @@
+class IdenticonsController < ApplicationController
+end
